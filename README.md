@@ -1,11 +1,1 @@
-"PerfectFirms.com: The Ultimate Tech Business Directory",
-    "",
-    "Introduction",
-    "",
-    "In today's fast-paced digital world, connecting with the right technology partners is crucial for business success.",
-    "",
-    "PerfectFirms.com is designed to simplify this process.",
-    "",
-    "Platform: Business Directory for Tech Companies",
-    "Focus: Verified, Leading Technology Firms",
-    "Goal: Simplify partner discovery and project execution"
+# 🚀 Automated Trading System Guide\n\n## 📌 Introduction\nThis project is a simple automated trading system designed to execute trades based on predefined strategies. It reduces manual effort and improves execution speed in financial markets.\n\n## ⚙️ Features\n- Fully automated trade execution\n- Strategy-based decision making\n- Real-time market monitoring\n- Built-in risk management\n\n## 🛠️ Technologies Used\n- Node.js\n- Puppeteer\n- MT4 / MT5 APIs\n\n## 📂 Project Structure\n- index.js → Main entry point\n- bot.js → Trading logic\n- utils.js → Helper functions\n\n## ▶️ How It Works\n1. Fetch market data\n2. Analyze using strategy rules\n3. Execute trades automatically\n4. Track and manage open positions\n\n## ⚠️ Important Notes\n- Always test on demo accounts first\n- Avoid high-risk strategies without validation\n- Monitor logs regularly\n\n## 📈 Future Improvements\n- AI-based predictions\n- Advanced dashboards\n- Multi-asset trading support\n\n## 📄 License\nThis project is for educational purposes only.
